@@ -65,12 +65,14 @@ httpd.serve_forever()
 
 ### CLIENT OUTPUT
 
-![clinet output](https://github.com/MoenishBaalan/webserver/assets/147473396/7fdd471c-7ae8-480d-aa4a-276224b8bbf9)
+![275313158-7fdd471c-7ae8-480d-aa4a-276224b8bbf9](https://github.com/rajeshsmaha/webserver/assets/147608800/d4c33262-0d4e-410f-82f9-301ccfb8debc)
+
 
 ### SERVER OUTPUT
+![275313231-17cd4411-92fc-4676-93de-4dd4e2749b4e](https://github.com/rajeshsmaha/webserver/assets/147608800/89761c8a-9fe1-443b-b5c6-cfcfe5e4fb69)
 
 
-## OUTPUT:
+
 
 ## RESULT:
 The program is executed succesfully
